@@ -1,0 +1,17 @@
+{
+  "name": "cmnord",
+  "owner": {
+    "name": "Claire Nord"
+  },
+  "metadata": {
+    "description": "Claire Nord's agent skills"
+  },
+  "plugins": [
+    {
+      "name": "cmnord-skills",
+      "description": "Claire Nord's agent skills",
+      "source": "./",
+      "strict": false
+    }
+  ]
+}

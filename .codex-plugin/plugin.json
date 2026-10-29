@@ -1,0 +1,16 @@
+{
+  "name": "cmnord-skills",
+  "version": "1.0.0",
+  "description": "Claire Nord's agent skills.",
+  "author": {
+    "name": "Claire Nord"
+  },
+  "homepage": "https://github.com/cmnord/skills",
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "cmnord skills",
+    "shortDescription": "Claire Nord's agent skills",
+    "developerName": "Claire Nord",
+    "category": "Productivity"
+  }
+}
