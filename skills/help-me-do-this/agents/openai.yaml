@@ -1,0 +1,4 @@
+interface:
+  display_name: "Help Me Do This"
+  short_description: "Turn a task into an agent-first action plan"
+  default_prompt: "Help me accomplish this task with the least manual work."
